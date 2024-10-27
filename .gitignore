@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vscode/
+/src/index.html
+.DS_Store
+.env
+*.log
+docs/

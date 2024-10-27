@@ -1,0 +1,13 @@
+# Micromponents UI
+
+A simple, lightweight library for creating reusable Web Components with dynamic properties.
+
+## Features
+- Easy-to-use dynamic web components.
+- Props support for passing data.
+- Reusable and modular design.
+
+## Installation
+
+```bash
+npm install my-web-components-library
